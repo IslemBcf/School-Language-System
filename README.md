@@ -1,6 +1,6 @@
-# Speakly / School Management System
+# School Management System (Lumina Academy)
 
-Speakly is a Laravel-based school management system designed for a language school or educational institution. It centralizes academic, administrative, financial, and communication workflows into role-based dashboards for admins, secretaries, teachers, students, and parents.
+School Management System (Lumina Academy) is a Laravel-based school management system designed for a language school or educational institution. It centralizes academic, administrative, financial, and communication workflows into role-based dashboards for admins, secretaries, teachers, students, and parents.
 
 The project was built as a final-year computer science project and demonstrates MVC architecture, authentication, role-based access control, database design, Blade/Tailwind interfaces, testing, and deployment preparation.
 
@@ -178,7 +178,7 @@ Configure the database connection in `.env`:
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
 DB_PORT=3306
-DB_DATABASE=speakly
+DB_DATABASE=(Lumina Academy)
 DB_USERNAME=root
 DB_PASSWORD=
 ```
